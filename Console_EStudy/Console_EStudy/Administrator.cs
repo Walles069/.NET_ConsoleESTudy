@@ -6,6 +6,9 @@ namespace Console_EStudy
 {
     public class Administrator : User
     {
-
+        public Administrator() : base()
+        {
+            Console.WriteLine("- Administrator constructor usage message -"); ;
+        }
     }
 }

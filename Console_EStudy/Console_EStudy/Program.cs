@@ -9,8 +9,7 @@ namespace Console_EStudy
             Console.WriteLine("Developed by: IA-71 students - Gritsachenko A.S. Lesyk V.O.");
             Console.WriteLine("VERSION 1");
             Console.WriteLine("Modelling start");
-            Console.ReadKey();
-            Console.ReadKey();
+            Classroom classroom = new Classroom();
             Console.ReadKey();
         }
     }

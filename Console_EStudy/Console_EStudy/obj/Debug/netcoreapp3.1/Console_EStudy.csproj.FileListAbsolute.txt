@@ -11,3 +11,16 @@ C:\Users\38099\Desktop\Тех .NET розробки вебд\Console_EStudy\Cons
 C:\Users\38099\Desktop\Тех .NET розробки вебд\Console_EStudy\Console_EStudy\obj\Debug\netcoreapp3.1\Console_EStudy.dll
 C:\Users\38099\Desktop\Тех .NET розробки вебд\Console_EStudy\Console_EStudy\obj\Debug\netcoreapp3.1\Console_EStudy.pdb
 C:\Users\38099\Desktop\Тех .NET розробки вебд\Console_EStudy\Console_EStudy\obj\Debug\netcoreapp3.1\Console_EStudy.genruntimeconfig.cache
+C:\Users\38099\Desktop\.NETTechnology\Main_Project\.NET_ConsoleESTudy\Console_EStudy\Console_EStudy\bin\Debug\netcoreapp3.1\Console_EStudy.exe
+C:\Users\38099\Desktop\.NETTechnology\Main_Project\.NET_ConsoleESTudy\Console_EStudy\Console_EStudy\bin\Debug\netcoreapp3.1\Console_EStudy.deps.json
+C:\Users\38099\Desktop\.NETTechnology\Main_Project\.NET_ConsoleESTudy\Console_EStudy\Console_EStudy\bin\Debug\netcoreapp3.1\Console_EStudy.runtimeconfig.json
+C:\Users\38099\Desktop\.NETTechnology\Main_Project\.NET_ConsoleESTudy\Console_EStudy\Console_EStudy\bin\Debug\netcoreapp3.1\Console_EStudy.runtimeconfig.dev.json
+C:\Users\38099\Desktop\.NETTechnology\Main_Project\.NET_ConsoleESTudy\Console_EStudy\Console_EStudy\bin\Debug\netcoreapp3.1\Console_EStudy.dll
+C:\Users\38099\Desktop\.NETTechnology\Main_Project\.NET_ConsoleESTudy\Console_EStudy\Console_EStudy\bin\Debug\netcoreapp3.1\Console_EStudy.pdb
+C:\Users\38099\Desktop\.NETTechnology\Main_Project\.NET_ConsoleESTudy\Console_EStudy\Console_EStudy\obj\Debug\netcoreapp3.1\Console_EStudy.csprojAssemblyReference.cache
+C:\Users\38099\Desktop\.NETTechnology\Main_Project\.NET_ConsoleESTudy\Console_EStudy\Console_EStudy\obj\Debug\netcoreapp3.1\Console_EStudy.AssemblyInfoInputs.cache
+C:\Users\38099\Desktop\.NETTechnology\Main_Project\.NET_ConsoleESTudy\Console_EStudy\Console_EStudy\obj\Debug\netcoreapp3.1\Console_EStudy.AssemblyInfo.cs
+C:\Users\38099\Desktop\.NETTechnology\Main_Project\.NET_ConsoleESTudy\Console_EStudy\Console_EStudy\obj\Debug\netcoreapp3.1\Console_EStudy.csproj.CoreCompileInputs.cache
+C:\Users\38099\Desktop\.NETTechnology\Main_Project\.NET_ConsoleESTudy\Console_EStudy\Console_EStudy\obj\Debug\netcoreapp3.1\Console_EStudy.dll
+C:\Users\38099\Desktop\.NETTechnology\Main_Project\.NET_ConsoleESTudy\Console_EStudy\Console_EStudy\obj\Debug\netcoreapp3.1\Console_EStudy.pdb
+C:\Users\38099\Desktop\.NETTechnology\Main_Project\.NET_ConsoleESTudy\Console_EStudy\Console_EStudy\obj\Debug\netcoreapp3.1\Console_EStudy.genruntimeconfig.cache
